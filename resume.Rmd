@@ -103,7 +103,7 @@ See all publications, posters and talks at: <br /> [antoinesoetewey.com/research
 Software {#open-source}
 --------------------------------------------------------------------------------
 
-All projects available at: <br /> [antoinesoetewey.com/software](https://www.antoinesoetewey.com/software/)
+See all projects at: <br /> [antoinesoetewey.com/software](https://www.antoinesoetewey.com/software/)
 
 Languages {#languages}
 --------------------------------------------------------------------------------
@@ -154,12 +154,19 @@ Teaching Experience {data-icon=chalkboard-teacher}
 print_section(position_data, 'teaching_positions')
 ```
 
-Writing {data-icon=newspaper}
+Selected Industry Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ```{r}
-print_section(position_data, 'writing_positions')
+position_data %>% print_section('positions')
 ```
+
+<!-- Writing {data-icon=newspaper} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- ```{r} -->
+<!-- print_section(position_data, 'writing_positions') -->
+<!-- ``` -->
 
 <!-- Professional Experience {data-icon=suitcase} -->
 <!-- -------------------------------------------------------------------------------- -->
@@ -195,16 +202,6 @@ print_section(position_data, 'writing_positions')
 <!-- ```{r} -->
 <!-- print_section(position_data, 'languages') -->
 <!-- ``` -->
-
-
-<!-- Selected Positions {data-icon=suitcase} -->
-<!-- -------------------------------------------------------------------------------- -->
-
-<!-- ```{r} -->
-<!-- position_data %>% print_section('positions') -->
-<!-- ``` -->
-
-
 
 <!-- Selected Writing {data-icon=newspaper} -->
 <!-- -------------------------------------------------------------------------------- -->

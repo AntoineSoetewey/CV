@@ -103,10 +103,16 @@ Research {#research}
 
 See all publications, posters and talks at: <br /> [antoinesoetewey.com/research](https://www.antoinesoetewey.com/research/)
 
+<!-- Projects {#projects} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- [statsandr.com](https://www.statsandr.com/): <br /> A blog about statistics and its applications in R -->
+<!-- See all other open source projects at: <br /> [antoinesoetewey.com/software](https://www.antoinesoetewey.com/software/) -->
+
 Software {#open-source}
 --------------------------------------------------------------------------------
 
-All projects available at: <br /> [antoinesoetewey.com/software](https://www.antoinesoetewey.com/software/)
+See all projects at: <br /> [antoinesoetewey.com/software](https://www.antoinesoetewey.com/software/)
 
 Languages {#languages}
 --------------------------------------------------------------------------------
@@ -172,12 +178,12 @@ Teaching Experience {data-icon=chalkboard-teacher}
 print_section(position_data, 'teaching_positions')
 ```
 
-Writing {data-icon=newspaper}
---------------------------------------------------------------------------------
+<!-- Writing {data-icon=newspaper} -->
+<!-- -------------------------------------------------------------------------------- -->
 
-```{r}
-print_section(position_data, 'writing_positions')
-```
+<!-- ```{r} -->
+<!-- print_section(position_data, 'writing_positions') -->
+<!-- ``` -->
 
 Industry Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
