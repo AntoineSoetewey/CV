@@ -106,7 +106,7 @@ See all publications, posters and talks at: <br /> [antoinesoetewey.com/research
 <!-- Projects {#projects} -->
 <!-- -------------------------------------------------------------------------------- -->
 
-<!-- [statsandr.com](https://www.statsandr.com/): <br /> A blog about statistics and its applications in R -->
+<!-- [statsandr.com](https://statsandr.com/): <br /> A blog about statistics and its applications in R -->
 <!-- See all other open source projects at: <br /> [antoinesoetewey.com/software](https://www.antoinesoetewey.com/software/) -->
 
 Software {#open-source}
